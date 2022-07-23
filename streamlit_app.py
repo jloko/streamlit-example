@@ -3,6 +3,9 @@ import altair as alt
 import math
 import pandas as pd
 import streamlit as st
+import zipfile
+import base64
+import os
 
 """
 # Welcome to Streamlit! Josh Loko.
@@ -16,11 +19,6 @@ In the meantime, below is an example of what you can do with just a few lines of
 """
 
 
-import pandas as pd
-import streamlit as st
-import zipfile
-import base64
-import os
 
 # Web App Title
 st.markdown('''
