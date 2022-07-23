@@ -7,7 +7,7 @@ import os
 # Web App Title
 st.markdown('''
 # **Excel File Merger**
-This is the **Excel File Merger App** created in Python using the Streamlit library.
+Josh - This is the **Excel File Merger App** created in Python using the Streamlit library.
 **Credit:** App built in `Python` + `Streamlit` by [Chanin Nantasenamat](https://medium.com/@chanin.nantasenamat) (aka [Data Professor](http://youtube.com/dataprofessor))
 ---
 ''')
